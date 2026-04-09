@@ -60,10 +60,10 @@ Fraud-Detection-Dashboard/
 ## 📸 Screenshots
 
 ### 🔹 Dashboard Overview
-![Dashboard](screenshots/dashboard_final.png)
+![Dashboard](Screenshots/dashboard_final.png)
 
 ### 🔹 SQL Output (Fraud Detection)
-![SQL](screenshots/sql_output.png)
+![SQL](Screenshots/sql_output.png)
 
 ---
 
