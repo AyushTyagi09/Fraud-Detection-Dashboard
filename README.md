@@ -105,19 +105,19 @@ python Scripts/load.py
 4. Open Dashboard
 -> Open PowerBI/fraud_dashboard.pbix in Power BI Desktop
 
-📸 Screenshots
+## 📸 Screenshots
 Dashboard
 
 sql_output
 
-🎯 Project Objective
+## 🎯 Project Objective
 
 To demonstrate practical skills in:
 
-Data Engineering (ETL pipeline)
-SQL-based data transformation
-Data Visualization
-End-to-end project development
+- Data Engineering (ETL pipeline)
+- SQL-based data transformation
+- Data Visualization
+- End-to-end project development
 
 
 🙌 Author
