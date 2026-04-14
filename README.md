@@ -81,11 +81,13 @@ END AS is_suspicious
 - Suspicious vs Normal Transactions
 - Transactions by Location
 
+
 ## 📈 Key Insights
 - Processed 500+ transactions
 - ~48% transactions flagged as suspicious
 - Chennai and Delhi have highest transaction volume
 - Total transaction volume ≈ ₹25M
+
 
 ## 🚀 How to Run the Project
 
@@ -105,10 +107,13 @@ python Scripts/load.py
 4. Open Dashboard
 -> Open PowerBI/fraud_dashboard.pbix in Power BI Desktop
 
-## 📸 Screenshots
-Dashboard
 
-sql_output
+## 📸 Screenshots
+### Dashboard
+![Dashboard](Screenshots/dashboard.png)
+
+### SQL Output
+![SQL Output](Screenshots/sql_output.png)
 
 ## 🎯 Project Objective
 
@@ -120,6 +125,6 @@ To demonstrate practical skills in:
 - End-to-end project development
 
 
-🙌 Author
+## 🙌 Author
 
 Ayush Tyagi
